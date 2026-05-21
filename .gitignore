@@ -31,6 +31,8 @@ logs/
 # 数据
 data/uploads/
 data/results/
+fastp-web/data/
+fastp-web/.venv/
 *.db
 *.sqlite
 
